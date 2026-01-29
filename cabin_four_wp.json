@@ -1,0 +1,22 @@
+{
+  "id": "cabin_four_wp",
+  "name": "Cabin Four Translations",
+  "lang": "en",
+  "baseUrl": "https://cabinfourtranslations.wordpress.com",
+
+  "search": {
+    "url": "/?s={query}",
+    "results": "article a@href"
+  },
+
+  "novel": {
+    "title": "h1.entry-title",
+    "cover": "img@src",
+    "description": ".entry-content p",
+    "chapters": ".entry-content a@href"
+  },
+
+  "chapter": {
+    "content": ".entry-content"
+  }
+}
