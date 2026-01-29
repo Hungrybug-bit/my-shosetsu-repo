@@ -6,7 +6,7 @@
 
   "search": {
     "url": "/?s={query}",
-    "results": "article a@href"
+    "results": "article h2.entry-title a@href"
   },
 
   "novel": {
