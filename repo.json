@@ -1,12 +1,12 @@
 {
   "name": "My Shosetsu Repo",
-  "version": 1,
+  "version": 2,
   "extensions": [
     {
       "name": "Cabin Four Translations",
       "pkg": "cabin_four_wp",
       "lang": "en",
-      "version": "1.0",
+      "version": "1.1",
       "url": "https://raw.githubusercontent.com/Hungrybug-bit/my-shosetsu-repo/main/cabin_four_wp.json"
     }
   ]
