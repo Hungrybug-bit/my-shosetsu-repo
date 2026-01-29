@@ -1,0 +1,13 @@
+{
+  "name": "My Shosetsu Repo",
+  "version": 1,
+  "extensions": [
+    {
+      "name": "Cabin Four",
+      "pkg": "cabin_four",
+      "lang": "en",
+      "version": "1.0",
+      "url": "https://raw.githubusercontent.com/Hungrybug-bit/my-shosetsu-repo/main/cabin_four.json"
+    }
+  ]
+}
