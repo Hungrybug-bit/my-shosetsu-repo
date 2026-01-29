@@ -1,0 +1,23 @@
+{
+  "id": "cabin_four",
+  "name": "Cabin Four",
+  "lang": "en",
+  "baseUrl": "https://cabinfour.com",
+
+  "search": {
+    "url": "/?s={query}",
+    "results": ".post-title a@href"
+  },
+
+  "novel": {
+    "title": "h1.entry-title",
+    "author": ".author a",
+    "cover": ".wp-post-image@src",
+    "description": ".entry-content p",
+    "chapters": ".entry-content a@href"
+  },
+
+  "chapter": {
+    "content": ".entry-content"
+  }
+}
