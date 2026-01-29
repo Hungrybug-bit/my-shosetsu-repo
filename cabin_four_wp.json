@@ -1,3 +1,4 @@
+
 {
   "id": "cabin_four_wp",
   "name": "Cabin Four Translations",
@@ -11,7 +12,7 @@
 
   "novel": {
     "title": "h1.entry-title",
-    "cover": "img@src",
+    "cover": ".wp-post-image@src",
     "description": ".entry-content p",
     "chapters": ".entry-content a@href"
   },
